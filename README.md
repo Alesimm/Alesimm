@@ -1,42 +1,5 @@
-```json
-{
-  "developer": {
-    "name": "Alejandro",
-    "username": "Alesimm",
-    "role": "Estudiante de Ingeniería en Informática @ Duoc UC",
-    "status": "Construyendo bases sólidas y código limpio"
-  },
-  "stack": {
-    "web": [
-      "HTML5", 
-      "CSS3", 
-      "JavaScript"
-    ],
-    "core": [
-      "Java", 
-      "Programación Orientada a Objetos"
-    ],
-    "tools": [
-      "Git", 
-      "GitHub"
-    ]
-  },
-  "contact": {
-    "email": "tu-correo@email.com",
-    "linkedin": "[linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)"
-  }
-}
----
-
-### Opción C: Moderno Dividido (Estructura Visual con Insignias)
-
-Este diseño utiliza HTML básico para crear dos columnas perfectamente alineadas. He integrado insignias (badges) oscuras que combinan perfectamente con el *Dark Mode* de GitHub usando un gris grafito (`1e1e2e`) y logotipos en blanco.
-
-Copia y pega este código en tu archivo `README.md`:
-
-```html
 <div align="center">
-  <h1>Alesimm</h1>
+  <h1>Alexander Simpertigue</h1>
   <p>Estudiante de Ingeniería en Informática | Java & Web Developer</p>
   <br>
 </div>
